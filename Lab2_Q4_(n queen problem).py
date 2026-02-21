@@ -43,6 +43,5 @@ def print_solution(board, n):
         print()
 
 
-if __name__ == "__main__":
-    n = 8  # Change this value for different board sizes
+
     solve_n_queen(n)
